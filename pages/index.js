@@ -22,91 +22,91 @@ export default function Home() {
         <div className='p-3'>
           <div className='max-w-full p-4 tracking-widest bg-red-300 border-2 border-red-900 h-1/4'>
           <h1 className='ml-6 tracking-widest text-8xl text-zinc-100'>h j e r t e t i n g</h1>
-          <p className='pt-4 mt-6 mb-6 ml-6'>Her finner du håndlagede produkter hvor hvert enkelt produkt er unikt. Hvert produkt er nøye designet for å fungere best mulig.</p>
+          <p className='pt-4 mt-6 mb-6 ml-6'>her finner du håndlagede produkter hvor hvert enkelt produkt er unikt. Hvert produkt er nøye designet for å fungere best mulig.</p>
           </div>
           
           <section className='gap-9 columns-3'>
           <div>
-            <h2 className='text-4xl mb-7 mt-7'>Varmeputer nakke</h2>
+            <h2 className='text-3xl mb-7 mt-7'>varmeputer nakke</h2>
             <Image src={img1} className='pl-2' alt="picture of heatpillow" />
             <Image src={img2} className='mt-7' alt="details of heatpillow"  />
             
           </div>
           
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Varmepute barn</h2>
+            <h2  className='text-3xl mb-7 mt-7'>varmepute barn</h2>
           </div>
           
           <div className='mt-11'>
-          <h2  className='text-4xl mb-7 mt-7'>Ris og Lavendel</h2>
+          <h2  className='text-3xl mb-7 mt-7'>ris og Lavendel</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Sovemaske</h2>
+            <h2  className='text-3xl mb-7 mt-7'>sovemaske</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Makeup pads</h2>
+            <h2  className='text-3xl mb-7 mt-7'>makeup pads</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Hårmote</h2>
+            <h2  className='text-3xl mb-7 mt-7'>hårmote</h2>
           </div>
           
           <div className='mt-11'>
-          <h2  className='text-4xl mb-7 mt-7'>Kaniner</h2>
+          <h2  className='text-3xl mb-7 mt-7'>kaniner</h2>
           </div>
           
           <div className='mt-11'>
-          <h2  className='text-4xl mb-7 mt-7'>Dukker</h2>
+          <h2  className='text-3xl mb-7 mt-7'>dukker</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Engler</h2>
+            <h2  className='text-3xl mb-7 mt-7'>engler</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Vimpelrekker</h2>
+            <h2  className='text-3xl mb-7 mt-7'>vimpelrekker</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Hjerter</h2>
+            <h2  className='text-3xl mb-7 mt-7'>hjerter</h2>
           </div>
           
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Luer</h2>
+            <h2  className='text-3xl mb-7 mt-7'>luer</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Pannebånd</h2>
+            <h2  className='text-3xl mb-7 mt-7'>pannebånd</h2>
           </div>
           
           <div className='mt-11'>
-            <h2  className='text-4xl mb-7 mt-7'>Hals</h2>
+            <h2  className='text-3xl mb-7 mt-7'>hals</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 mb-7 mt-7'>Smekker</h2>
+            <h2  className='text-3xl text-red-900 mb-7 mt-7'>smekker</h2>
           </div>
           
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 mb-7 mt-7'>Koseklut</h2>
+            <h2  className='text-3xl text-red-900 mb-7 mt-7'>koseklut</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 mb-7 mt-7'>Varmepute små mager</h2>
+            <h2  className='text-3xl text-red-900 mb-7 mt-7'>varmepute små mager</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 m b-7 mt-7'>JUL</h2>
+            <h2  className='text-4xl text-red-900 m b-7 mt-7'>jul</h2>
           </div>
           
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 mb-7 mt-7'>PÅSKE</h2>
+            <h2  className='text-3xl text-red-900 mb-7 mt-7'>påske</h2>
           </div>
 
           <div className='mt-11'>
-            <h2  className='text-4xl text-red-900 mb-7 mt-7'>HALLOWEEN</h2>
+            <h2  className='text-3xl text-red-900 mb-7 mt-7'>halloween</h2>
           </div> 
           
           </section>
