@@ -1,8 +1,16 @@
 import { Inter } from '@next/font/google';
 import Head from 'next/Head';
 import Image from 'next/image';
+
+import { Montserrat } from "@next/font/google";
+
 import img1 from "../images/varmepute.jpg";
 import img2 from "../images/varmepute2.jpg";
+
+const montserrat = Montserrat({
+  weight: "100",
+  subsets: ["latin"],
+});
 
 export default function Home() {
   return (
