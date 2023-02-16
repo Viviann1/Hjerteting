@@ -30,10 +30,14 @@ export default function Navbar() {
                                 </button>
                                 </li>
                             <li className='text-black'>
+                            <button className="p-4 m-2 bg-red-300">
                                 <Link href='/reference'>mønster</Link>
+                                </button>
                             </li>
                             <li className='text-black'>
+                            <button className="p-4 m-2 bg-red-300">
                                 <Link href='/contact'>Ta kontakt</Link>
+                                </button>
                             </li>
                         </ul>
                 </div>
