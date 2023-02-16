@@ -12,12 +12,12 @@ export default function Home() {
       <main>
         <div className='p-3'>
           <div className='max-w-full p-4 tracking-widest bg-red-300 border-2 border-red-900 h-1/4'>
-          <h1 className='text-6xl tracking-widest'>hjerteting</h1>
+          <h1 className='tracking-widest text-8xl text-zinc-100'>h j e r t e t i n g</h1>
           <p className='pt-4'>Her finner du håndlagede produkter hvor hvert enkelt produkt er unikt. Hvert produkt er nøye designet for å fungere best mulig.</p>
           </div>
           <div className='flex flex-col pt-x 6'>
           <div className='mt-11'>
-            <h2>Varmeputer nakke</h2>
+            <h2 className='text-4xl'>Varmeputer nakke</h2>
             <Image src={img1} alt="picture of heatpillow" />
             
           </div>
