@@ -17,7 +17,7 @@ export default function Home() {
           <p className='pt-4 mt-6 mb-6 ml-6'>Her finner du håndlagede produkter hvor hvert enkelt produkt er unikt. Hvert produkt er nøye designet for å fungere best mulig.</p>
           </div>
           <div className='flex flex-col pt-x 6'>
-          <div className='mt-11'>
+          <div className='flex flex-row mt-11'>
             <h2 className='text-4xl'>Varmeputer nakke</h2>
             <Image src={img1} className='mt-7' alt="picture of heatpillow" />
             <Image src={img2} className='mt-7' alt="details of heatpillow"  />
